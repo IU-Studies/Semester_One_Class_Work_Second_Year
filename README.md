@@ -1,4 +1,4 @@
-<h1 align="center">📚Second Year Class Work Repository</h1>
+<h1 align="center">📚Second Year Class Work Repository (SEM 1)</h1>
 
 <p>In this repository, I upload questions covered during both offline and online classes, including assignments and extra homework questions.</p>
 
